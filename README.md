@@ -1,6 +1,6 @@
 # WeatherRead
 
-This project reads .dat file reads values in columns and rows tailored only for that secific file.
+This project reads .dat file.It reads values in columns and rows tailored only for that specific file.
 
 
 Code Question:
